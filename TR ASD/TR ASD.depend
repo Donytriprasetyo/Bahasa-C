@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586142233 source:e:\doc\rio\tr asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1586142233 source:e:\kuliah\semester 5\asd\c\tr asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
